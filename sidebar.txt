@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[buo:home|Door43 (buo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-buo|d43-buo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-buo/archive/master.zip|d43-buo.zip]]
+
+**Recent Changes**
+{{changes>ns = buo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/buo|Ethnologue data]]
+
